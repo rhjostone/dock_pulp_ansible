@@ -1,6 +1,6 @@
 namespace: rhjostone
 name: dock_pulp_ansible
-version: 0.1
+version: 0.0.1
 readme: README.md
 authors:
 - Joshua Stone <jostone@redhat.com>
